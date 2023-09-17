@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "aeutiltiies:block/energyconverter/energyconverter_top_off",
+    "down": "aeutiltiies:block/energyconverter/energyconverter_bottom_off",
+    "north": "aeutiltiies:block/energyconverter/energyconverter_back_off",
+    "east": "aeutiltiies:block/energyconverter/energyconverter_side_off",
+    "south": "aeutiltiies:block/energyconverter/energyconverter_side_off",
+    "west": "aeutiltiies:block/energyconverter/energyconverter_side_off",
+  }
+}
